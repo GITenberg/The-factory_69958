@@ -1,0 +1,25 @@
+_repo: The-factory_69958
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lincoln, Jonathan Thayer
+    gutenberg_agent_id: '55512'
+    url: http://www.gutenberg.org/2009/agents/55512
+description: ''
+gutenberg_issued: '2023-02-05'
+identifiers:
+  gutenberg: '69958'
+language: en
+pgterms:marc905: 20221201171838lincoln
+pgterms:marc906: '1912'
+pgterms:marc907: US
+production_note: Bob Taylor, and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bHoughton Mifflin Company, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The factory
+url: http://www.gutenberg.org/ebooks/69958
